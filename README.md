@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dairycowp
-- 👀 I’m interested in CV/MV
+- 👀 I’m interested in robotics, Web3
 - 🌱 I’m currently learning Pytorch
 - 📫 How to reach me : Twitter@dairycowcn  IG@dairycowp
 
